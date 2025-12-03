@@ -1,4 +1,4 @@
-name: first workflow
+name: advanced workflow
 
 on:
   workflow_dispatch:
